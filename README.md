@@ -1,4 +1,4 @@
-# SolarFrontietNodeRed
+# Solar Frontier Node-Red
 Solar Frontier data to Influxdb using Node Red
 
 The Solar Frontier converter must have a static IP-address to get this working properly. 
